@@ -1,13 +1,15 @@
-<h1 align="center">Hi 👋, I'm Juliana Falcão</h1>
-<h3 align="center">Passionate about the world of data analysis</h3>
+<h1 align="center"> olá 👋, Eu sou a Juliana Falcão</h1>
+<h3 align="center">Apaixonada pelo mundo dos dados </h3>
 
-- 🌱 I’m currently learning about **SQL, Big Query**
+- 🌱 Eu estou aprendendo sobre **SQL, Big Query**
 
-- 💬 Ask me about **Power Bi, Excel, Google Data Studio**
+- 💬 Vocês podem me perguntar sobre **Power Bi, Excel, Google Data Studio**
 
-- 📫 How to reach me **julifalcao11@gmail.com**
+- 📫 Podem me encontrar **julifalcao11@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/julianafalcaoalmeida/](https://www.linkedin.com/in/julianafalcaoalmeida/)
+- 📄 Me conheça um pouco mais: [https://www.linkedin.com/in/julianafalcaoalmeida/](https://www.linkedin.com/in/julianafalcaoalmeida/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianafalcao&show_icons=true&theme=radical)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
